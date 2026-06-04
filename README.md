@@ -1,4 +1,4 @@
-# Assignment 4 — Design to Code with MCPs
+# Design to Code with MCPs
 
 Use MCPs to run the full design-to-code pipeline for **Clipper** — a dark-theme code snippet manager.
 
