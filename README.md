@@ -1,3 +1,14 @@
+# Description
+
+"Clipper", a dark-theme code snippet manager with three screens (Home, Clip Detail, New Clip). You'll have a wire up of a design MCP (Pencil or Figma), use it to design each screen, then use the same MCP to generate React Native code in a pre-wired Expo app. Finally, you'll use /chrome to screenshot the running app and compare it against the design.
+
+What you'll see:
+* How to install and verify an MCP server with claude mcp add and /mcp
+* How to use a design MCP to drive a real design-to-code pipeline
+* How /chrome closes the visual validation loop
+* The agentic engineering pattern: MCPs as sensors, hooks as guardrails, /chrome as feedback
+
+
 # Design to Code with MCPs
 
 Use MCPs to run the full design-to-code pipeline for **Clipper** — a dark-theme code snippet manager.
