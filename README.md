@@ -88,4 +88,4 @@ pencil-design/     Design phase — PRD.md and the Pencil/Figma MCP work
 clipper-expo/      Code phase — pre-wired Expo app
 ```
 
-Run `/assignment_4` from `pencil-design/` to launch the interactive wizard.
+Run `/repo` directory  from `pencil-design/` to launch the interactive wizard.
